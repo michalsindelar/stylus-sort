@@ -1,5 +1,5 @@
-"use strict"
 #!/usr/bin/env node
+"use strict"
 
 const Sort = require('../lib')
 const cli = require('commander')
