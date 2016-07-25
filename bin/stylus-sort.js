@@ -1,3 +1,4 @@
+"use strict"
 #!/usr/bin/env node
 
 const Sort = require('../lib')
